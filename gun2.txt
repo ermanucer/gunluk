@@ -1,2 +1,5 @@
 gun 2 oldu
 eyo
+
+
+ooo hep değişiklikler
